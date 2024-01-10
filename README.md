@@ -29,12 +29,17 @@ To install and run this application, follow these steps:
 Usage
 Once the application is running, you can perform CRUD operations on books by sending HTTP requests to the following endpoints:
 
-Endpoint	          Method		    Description
-/api/book	          GET		        Get all books
-/api/book/:id	      GET		        Get book by id
-/api/book	          POST		      Create a new book
-/api/book/:id	      PUT		        Update a book
-/api/book/:id	      DELETE		    Delete a book
+Endpoint	                   Method		    Description
+
+/api/book	          GET		    Get all books
+
+/api/book/:id	          GET		    Get book by id
+
+/api/book	          POST		    Create a new book
+
+/api/book/:id	          PUT		    Update a book
+
+/api/book/:id	          DELETE		    Delete a book
 
 You can use tools like Postman or cURL to send HTTP requests to the endpoints.
 
