@@ -39,18 +39,33 @@ Endpoint	          Method		    Description
 You can use tools like Postman or cURL to send HTTP requests to the endpoints.
 
 File Structure
+
 book-management-system/
+
 ├── cmd/
+
 │   └── main/
+
 │       └── main.go
+
 └── pkg/
+
     ├── config/
+    
     │   └── app.go
+    
     ├── models/
+    
     │   └── book.go
+    
     ├── controllers/
+    
     │   └── book-controller.go
+    
     ├── routes/
+    
     │   └── bookstore-routes.go
+    
     └── utils/
+    
         └── utils.go
