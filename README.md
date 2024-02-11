@@ -15,11 +15,12 @@ To install and run this application, follow these steps:
 1.Clone this repository to your local machine.
 
 https://github.com/dinethsiriwardana/Book-Management-System-with-Golang-and-Mysql.git
+
 2.Install MySQL and make sure it is running on your machine.
 
-3.Create a new database named **bookstore**.
+3.Create a new database named `bookstore`.
 
-4.Update the MySQL connection string in the **Connect()** function in the **pkg/config/app.go** file.
+4.Update the MySQL connection string in the `Connect()` function in the `pkg/config/app.go` file.
 
 5.Build and run the application by executing the following command from the project root directory:
 
