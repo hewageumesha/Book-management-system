@@ -14,7 +14,7 @@ To install and run this application, follow these steps:
 
 1.Clone this repository to your local machine.
 
-https://github.com/dinethsiriwardana/Book-Management-System-with-Golang-and-Mysql.git
+https://github.com/hewageumesha/Book-Management-System.git
 
 2.Install MySQL and make sure it is running on your machine.
 
