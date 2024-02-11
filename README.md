@@ -1,6 +1,6 @@
 # Book Management System
 
-This is a Book Management System based on a tutorial by `[freeCodeCamp.org] (https://github.com/AkhilSharma90/Gola...)`, implemented with Golang and MySQL. This application allows users to manage books by providing CRUD (Create, Read, Update, Delete) operations through a RESTful API.
+This is a Book Management System based on a tutorial by [freeCodeCamp.org] (https://github.com/AkhilSharma90/Gola...), implemented with Golang and MySQL. This application allows users to manage books by providing CRUD (Create, Read, Update, Delete) operations through a RESTful API.
 
 ## Features
 - Create a new book
