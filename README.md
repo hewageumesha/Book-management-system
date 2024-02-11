@@ -36,3 +36,8 @@ Once the application is running, you can perform CRUD operations on books by sen
 |/api/book | POST | Create a new book |
 |/api/book/:id | PUT | Update a book |
 |/api/book/:id | DELETE | Delete a book |
+
+You can use tools like Postman or cURL to send HTTP requests to the endpoints.
+
+## Contributors
+- [Nethmi Umesha]()
